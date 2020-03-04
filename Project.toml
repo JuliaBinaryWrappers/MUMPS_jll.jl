@@ -1,0 +1,14 @@
+name = "MUMPS_jll"
+uuid = "ca64183c-ec4f-5579-95d5-17e128c21291"
+version = "5.2.1+0"
+
+[deps]
+MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+SCALAPACK_jll = "5d3fc3e8-a677-5550-826f-6cfd58f208da"
+PARMETIS_jll = "b247a4be-ddc1-5759-8008-7e02fe3dbdaa"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+METIS_jll = "d00139f3-1899-568f-a2f0-47f597d42d70"
+
+[compat]
+julia = "1.0"
