@@ -1,6 +1,6 @@
 name = "MUMPS_jll"
 uuid = "ca64183c-ec4f-5579-95d5-17e128c21291"
-version = "5.4.0+0"
+version = "5.4.1+0"
 
 [deps]
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
