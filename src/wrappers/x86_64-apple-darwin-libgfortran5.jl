@@ -4,16 +4,17 @@ export libcmumps, libdmumps, libsmumps, libzmumps
 using CompilerSupportLibraries_jll
 using MPICH_jll
 using METIS_jll
+using SCOTCH_jll
 using PARMETIS_jll
-using SCALAPACK_jll
-using OpenBLAS_jll
+using SCALAPACK32_jll
+using OpenBLAS32_jll
 JLLWrappers.@generate_wrapper_header("MUMPS")
 JLLWrappers.@declare_library_product(libcmumps, "@rpath/libcmumps.dylib")
 JLLWrappers.@declare_library_product(libdmumps, "@rpath/libdmumps.dylib")
 JLLWrappers.@declare_library_product(libsmumps, "@rpath/libsmumps.dylib")
 JLLWrappers.@declare_library_product(libzmumps, "@rpath/libzmumps.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, MPICH_jll, METIS_jll, PARMETIS_jll, SCALAPACK_jll, OpenBLAS_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, MPICH_jll, METIS_jll, SCOTCH_jll, PARMETIS_jll, SCALAPACK32_jll, OpenBLAS32_jll)
     JLLWrappers.@init_library_product(
         libcmumps,
         "lib/libcmumps.dylib",
