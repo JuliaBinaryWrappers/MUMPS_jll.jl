@@ -8,7 +8,6 @@ using PARMETIS_jll
 using SCALAPACK32_jll
 using OpenBLAS32_jll
 using MPItrampoline_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("MUMPS")
 JLLWrappers.@declare_library_product(libcmumps, "@rpath/libcmumps.dylib")
 JLLWrappers.@declare_library_product(libdmumps, "@rpath/libdmumps.dylib")
