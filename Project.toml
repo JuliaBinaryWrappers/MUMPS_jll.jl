@@ -1,6 +1,6 @@
 name = "MUMPS_jll"
 uuid = "ca64183c-ec4f-5579-95d5-17e128c21291"
-version = "5.6.0+0"
+version = "5.6.1+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
