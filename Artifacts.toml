@@ -1,39 +1,39 @@
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "7691f94546bdfe87bdeef35a5fd970e9cb35898a"
+git-tree-sha1 = "78b6be146381be2c7c0441bc6097594568f1d820"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "ce6eb54c437d3d883dcf6b5f4c79665394ee8fefff004859186223bad4efd3d0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "93f6be2a9a3bddd751256e7ef925b63cecbb496398e179568d50f8e09de79057"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "d8509dcbbbfe2448b5d961c1047b06769618ffb6"
+git-tree-sha1 = "80290563192198b69166e8a8afefeed130e91a43"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "2b30d46032aa7e45dc1bf3c3cc1e4d3af21a5dfd7d93d042c39989e4f5300841"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "2f05269e873249c1443e9613a38a41550cb9de28dece27fdce7a41436c0081e0"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "53f7504d3e8a39db968b75dd8789defb3f7e3765"
+git-tree-sha1 = "116d374c615ff0eb76a513e5d2d9f4fe7e82dcb3"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "caeef53dd83ecb6af87ccd884d936b4ca22453790172c84625d219e6396e92ff"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "c4b0140ac23084a6b8f30bdfb55a17c5e708fce10045ef4f49fa6eac424aa772"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "f39edd9dd0ae9b91672c4732ac5a52b2f5d2d1f4"
+git-tree-sha1 = "1ff4652fae4a27124f89133daaa16c97e82f3b97"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -41,11 +41,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "e692f52c10ee4bdc056c8dafd31d295da800d831222ba3a374ec5d202b0b1e04"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "476a77411f427654ed87f1b355cf0a9ed64d3d88bbc5262bb7ffdb5f577a74f3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "7a7c292f7d54ca610ec53b10eeb12f82d17fe23a"
+git-tree-sha1 = "0a8d15daa9df2941d4a8531cca8fd874267eea5b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -53,11 +53,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "23f194d37d40c769f2ace43e4033e69fc756831eced211f4f1dafce0579015c4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "4e0720f768e34316724cfd46b0a57a8c3c86f9ee1c702c640684c1931e73e4a9"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "6165419514aff2f49614eef9abbe526c96606443"
+git-tree-sha1 = "753011a8b0d5f0dc7fcac602237591337b238623"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -65,11 +65,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "375eddf5e80161965d2cfe099ef330532cf0de8034a0ea531b06d9a5789dd4d5"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "bd4aca0348312aa5225085b51195a45cb9af0aa87c45cd20c2d462fbea27a206"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "9410b9a210c7243dac40b60a8f379ad711030231"
+git-tree-sha1 = "1c75774572180fa74cc242a0a6404d32e695eea8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -77,11 +77,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "240b5167bd100480b39b2ffa5eb543e6293172621ea3a6a5910d280311a3f3df"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "25a86a56a6c39f60fef725281fdef5bb056dc98679fd9817196d314c75a2cced"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "a5513f770ff7479150bef929d2cba2b9ac6a2c61"
+git-tree-sha1 = "f2cc6b911b0ed5943a9a9c3f5dfcfb9d1817e907"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -89,11 +89,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "d6cf9dec1743698562ea459338e1fdff9c717eec8d497c2f22f6cd54c1fee71a"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "2eb7a32ebf341a04c6185bdf7882ec03d497f78921ac8a8b88f537cbc7881ca2"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "f97a3ad7bfe2cf41bf46beb5d5c1f33d8d16a09b"
+git-tree-sha1 = "d5063ca6053caa50dca156a055f0fb7b30104c35"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -101,11 +101,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "8df77445e6cc0296e6e2e07c9a50d9c039c9ed42633b2c68a50587cf083a1829"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "b2b28ab01f588c7e514125d54ebb1f522e7e1b6805143e99e92340eeab5010f3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "0f8fc028c77356587a55a6aecdf61f589b252890"
+git-tree-sha1 = "bd67f4486f128e2f92da27cb8246a3280e00688f"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -113,11 +113,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "c04006706d5529b4e257ad8456ae7498219af1d8e2a7540cb02a30176f745b87"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "a840f19d4e422cba56e5991eb7044a651d29fada467290ce81d49470426e3b10"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "7e970bed18f6b43ef9e208cdcf5e7d28341b1547"
+git-tree-sha1 = "1f744b64394fc50d3972988a6822b5742c4694eb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -125,11 +125,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "33f6a024a749500f1f5e3866f7e9776fb6927dfdd33b1908e5ab066f3a49e9b4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "a94a6e2f22f0baa7d21d385bface5ae47e7cc5b1bf396bbad810edf10c9146bc"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "4bf15ecd13849be0192a73da76855a602b77a19f"
+git-tree-sha1 = "3b41d6496c30aef830b0f2e5be92baf4baa32e9b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -137,11 +137,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "e297587e2d98a2cf314f7189252e15ff247198d83badf8cf2797a37fb3f597a0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "9eb913bef1fb66ffbe8e29af628fe6b1ee880802761afb0942b1545e0b2e20d5"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "40ef34ab5d6c7cbb9598cf8c9da87ac83b335bf7"
+git-tree-sha1 = "6824a2e45fea879699d303fd6a57da34544f549d"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -149,11 +149,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "7582050fb24c90fc1347b9e70cf2708eea88676c515c49116ae2e71581e805a1"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "aac20a6a0dcbbac6b8474139d3d48e306bd4f4f5ce9a06322ed8319d935ee1ea"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "5dd2c2e55ae4003fae63f598b6defe7faf1c0eda"
+git-tree-sha1 = "f3ce66cdc299b0701cb6c09ebe6f710a448c943f"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -161,11 +161,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "92bb9abba89c1550369d58758e9b8893c59d6dae2dc49f2cd74e6bbc44c6149e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "edd871ccd7828e79d4380221907b07272b72524436c686433cd62017002cd36b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "e7dc4ce095eb322672b9c5982b4401105e39968c"
+git-tree-sha1 = "d15ee6aa9263c90c8849346595d70764244608cc"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -173,11 +173,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "b2c6ca356c8e3799326c5b48aed8cc2dc5b24830a547f05e2dfa8ef2f3c00be3"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "cca3f8701511045d22ab6d77150b9ae7ce850df5a9e1e996d4d915b98d5444bf"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "b8cf9ab2f5c440fa6d30b078b39eb85cb91e0e7d"
+git-tree-sha1 = "a3d52f3006ca3eea110f0fb4d378048cf9bcf7cd"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -185,11 +185,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "0a779be20ca873739fc950eb35672ca5ce1cbef220a3132796b6bc602cfe6433"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "a7618ab05b75ab8120d395764edd8d9076200576aa6c1f0e3dc3b2832a65d521"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "733b69bfeca832f968c65de6b11bc0c630b435ee"
+git-tree-sha1 = "515a0e27754176373a1c572d7dff65cbc6a08890"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -197,11 +197,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "0572e0d8187325eb794bb5ef62c184c6dcb7dfe9e741e6241ed0ddb6b5bbf190"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "47ddb7859b42a12cf46026eeaab6ec449ba001a71a7e7c6ea819c9bdbea143f4"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "aarch64"
-git-tree-sha1 = "7fce388b39b76d3b69b8c4ae527fa7fca86473d7"
+git-tree-sha1 = "bfa47b720b8489ac2ad321a2e0a9c88ccce63736"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -209,12 +209,12 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "d0d57d9ce845a578ef0122185e025859fe2e9f7f5b9522b946d462718c403473"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "1e8ea9e36066b01a6f6a35009e4f7fd5ffcf12e46dd8fd4464938c1c9fd70ff3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9e31209120562d81c0216b2a4a8582209abebbed"
+git-tree-sha1 = "260f16332315c6ece65cfc9c0ebe68817f70acbb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -222,12 +222,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "af39aa8b1e104ffea94540fa603cf840280362c07d4024821f89436b82733bf4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "25bd8e778a0ae01a5f2e8a46beebb42888eafdad4ac95d6cc48abd4be698ae8b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "674d44b22370591255f8a7271d5b73e061f6174e"
+git-tree-sha1 = "4bb45ccd89a5b4542d9eb5f21bb4a6ee869aa971"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -235,12 +235,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "dbdda116e252f93514654498e477b8393518ba5b057f5de9f70741ebc9374444"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "4199dfda366c32885b8a164c1e83392246aecf7c2052a58050635a2437ef79d9"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8b5f9435f11d0404bc3b380af1e0408f739e8df8"
+git-tree-sha1 = "a8b754b3e7257c61015fd70fdd7b17ffaae007ab"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -248,12 +248,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "8819b4d811849475b9d03f1dc2b511329373ce16dd4d7048f57f31347181b876"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "26de46818833331cc56795c54a9a71d122e3a1a00daad7fef220112540b3849c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c724ce51f91fd3041f9a060f9e692e6c63d681c"
+git-tree-sha1 = "3c7b495262d265cc05760e8c369f54efa16b8c74"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -261,12 +261,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "f3dc764c47de7d6acab6c3198b1b7b12c772d9cbea08f4f5b3d1d1ac0962acab"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "4af8ecb75b07e8150cf40acdf6acb8e00f0d1754f07c5100fff3f4d09216e914"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b6e8045251c1afee48b8180a79023d644f77f652"
+git-tree-sha1 = "50e74bf2d465eedea10737ba2121e99ef868a1ab"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -274,12 +274,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "0d3796b2f672876b86b5557f8f4e03cfd1c93775a44dc400619175af74223fa3"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "2d492f5b874175c090e3e1acfad31b493bc97936597898c9560fd6ca743e6fe4"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d0ff120112600acd2481ac556a8ac59c8975d05"
+git-tree-sha1 = "428722bb1b952899d3d6d8f3eb80d806efb67a53"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -287,12 +287,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "8bb75a357035a99c3d06374087caafdb8468ae34c1e3ab72b9aa7e31828099e1"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "1ae1833a74224b691c11cc8381117d27b6ec39deff8b6acd3387cc13ae34aa01"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b722a364f7c40a1e4808a1247a12ce386bc5eda1"
+git-tree-sha1 = "c690b3630a141496613620d0410630091e2846e5"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -300,12 +300,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "1b0675083bca77a314e15dc0210dc9616fbb0dadcd16dba927b98922e2be61c2"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "0deb2caea087f1602932fd2f69459751925253854446e5b697342a5ed782317b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "add79c6a1a321223e945b138b19354ade847dc6f"
+git-tree-sha1 = "243f5d3ae0eb9fd399664aab8c97cfbcd59ca328"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -313,12 +313,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "bf62b7aa03c2c8e02012af0117d0d257277cfd9c06489c00860dfaa7b8aa326b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "dc7a95ed2e05673118ede27700a5967bb26d113967763909d81a1a5e9e8444be"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8e0295bcec8d86dadb6eff44498229b459566eac"
+git-tree-sha1 = "9caeb78ad7845094216d3dd039dc73cbdf78b52f"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -326,12 +326,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "c3f8dda36e8ddc161b6cb95a9af43f926f029e9df5bef3d9aa8147558c27f955"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "799aed982440514b6552a8d18eb125906f46499cea76f5ebe854bc3eb6c46bf7"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "9e06a13d995a758d151945c2bfdb73b193fdfff2"
+git-tree-sha1 = "298df4ccd02d8e5ceb3c5b40f172395abbacc97d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -339,12 +339,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "8c9b89cbd733604d4fa2e32461040afd8ae79e31222e0ad5f0d3db171e2f3e4d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "cd7b86e94f96f97252364bf22a61842f1f77ef3aa46a7e3fa4274188fabde4da"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d2c4f5a3b0c2cf4947b94dd0a1ed96ec01ec8406"
+git-tree-sha1 = "fe2b3c1fd336d910ad0a8df33231aec6d4e3a5b6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -352,12 +352,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "e6c55ea137193611c32de67df8d6eede2b679338a3e4c1226a517a260d87c09a"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "a0d57862274ff785302fb8a240b09b51304715129159e21c3b5d6fe234165f52"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "3853f33c0707cb807dbad9c6f0fa4519c6c424d6"
+git-tree-sha1 = "42415903a6925d85dbf03612de4dd14be58bd1cc"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -365,12 +365,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "11fc458f48db98395c808fab9d413d902a76a4f63e4cc215c8ecef124c62dffa"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "4f8d03b0f48c42d658638f7b29add6a62fd1ef26859d0ffcb3281d114c84d65d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5469dae2abe0590d28f9294702f3237708755fa9"
+git-tree-sha1 = "60687101a244abb87f00c1a5647277441192a18b"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -378,12 +378,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "1db73cfd9b17ca5248e8e742426c2ce2836056a8c4d716f5b5e8130d7e012730"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "60eb9c1aa80db21d166dca3e315053ddbb8ff25cd4d115935ee578af37ff5044"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8988135172e233617970ec911ae2a65701cd0ed5"
+git-tree-sha1 = "67b55942726cab9173fb398cfc9c45fe15d1a8f3"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -391,12 +391,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "a52bc8eed4dcdfa7ff634c88f24e1c915b94e27deed6e5ac70695c0a37ed9012"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "e3835f7a3b64b9fe488cf59044139448f4a0596259b866a89b36791c8a30467c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "34e80ae0117fa6dcc012b0473afa0eff2a1ab205"
+git-tree-sha1 = "3fd7da7e6f7e82c4f0a3def127344d86abcdcf49"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -404,12 +404,12 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "8a39cb1d5e8250cfa5ffd1206625ba32659e8bdec7cd0237d1642a3d8c77d7e2"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "d5e8198afd4d12dda0b14e9cdc322f973292352d7e354c3dfd7706a78b4f7965"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0152b1cb9172963d5123a3f1df43229002250db5"
+git-tree-sha1 = "568779fb837d5201e964d0d92360681a4f3eac10"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -417,12 +417,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "c35031fc23a0b223780d30c455cfd69b7dc8a3a7c24b62f33b15cd65f999c3c1"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "b0cd5e7de9da618128c217a5e4629756c7243de9c20f82d67845e7e3af84c66c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "422bc66069f98880b427d7849b7b9b1b8323d4f7"
+git-tree-sha1 = "a64b9c09fd1dc1ffcd772528872ce4457bf08f5d"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -430,12 +430,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "7e50c7804003dc120d8178b37c70a28a6387a319086a4038d92b24ef82e8be20"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "b91de58497af75420ba7a8541abe66b72aa09216f2b6bb597a9dad41152e70e3"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "271abee80de696cf94ddc7331c8e5c450f71ea8c"
+git-tree-sha1 = "05a5a3ad41e5054e96573771096c701e6d1d3544"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -443,11 +443,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "54e8f8faf8d8f73937929517dd49bf6e1ef175f43619b6e01d21b537f72a7aaa"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "5940b683ac302f5954b167bfc2009e76687db24e6948649b2495746db83dea1b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "64bf97dd2442bbb5bee1c555b69fd35042561eec"
+git-tree-sha1 = "78f5dba944b3fa78f2bac910d41c50bbcf07685f"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -455,11 +455,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "1316081d935f0805714f7700bafb4a30368089340aada4b1a7a5287176eaa34b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "ce7c623e73197ca3efaba2bb5eb759df36167ccd5addc71574286c81ad5a3291"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "dbd305128ff74250a73f56f442a1c74a0a0d3ca6"
+git-tree-sha1 = "496029d0a6a034d7c2b64dfc4ea632bc3210aef1"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -467,11 +467,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "10f0ae7497c7d8b9f7c84ad6477f1a98af5044a156199eeacc2be81fb169a3ca"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "af318c18123253cd38258d685a50860be77079d5115b0ce61b3c17a65c093de2"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "961c2795ac49138c8ea9afcc48350f44a5eb0614"
+git-tree-sha1 = "5d1b53655f78a7888656370dfd1f156817841303"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -479,11 +479,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "b0689ebbfceab1528ad39bca8382b44f87f97b78ac16e3c0709c76c63e03cf8d"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "538c9801de13b8a718c0f54e644c0715aed69d604849e1d3760ddd6fdab8a46d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "2986546205161ae204e1690311041fe24b5696a1"
+git-tree-sha1 = "c9e29e503cc54a24a1c1faa4f0da5513988560e6"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -491,11 +491,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "0e94f244c31a199bf0e95901b7dca7a32e47bf484fcac403c5072bdf0b7489b0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "2284062e9c30a6052c4efbf877493bf1661bf5d757ff24ce0e7d5d0fbfb7f5ba"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "141f867e1869d3fd5cb42955f24696a150a4d00a"
+git-tree-sha1 = "fa3d2dd9d0b5b7becb30301f77a66d1e84672aed"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -503,11 +503,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "f8e4970f9e6ee68df679241e6f71a7292c8e4543779c08d062cc1128e32737f4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "536b6b41b89a714141c618fca50fd27e8d6ef2058966cb90cffd8397af766e26"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "af8278ed8d481683689ffdf02e7330d47feba676"
+git-tree-sha1 = "3bb4329ce66e253468c3d48c1edd2379d8546f75"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -515,11 +515,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "7cd044c38789764b3900a88e30463cf8689f4d322606430918b9178c909d81f4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "44e2775e0340309c39a1d3c9686e222a32f98753a9051f2f3cd3ade7aff2c16e"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "b46cd2ac40761431022c3aa90a34c154ba0250d7"
+git-tree-sha1 = "4b5870b1b9f18602e8084e435cd5e2303a69f491"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -527,11 +527,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "d36d62f6f951978dcd98ed666fc92c5d56a29c68dd7755097c1ccd9964c24483"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "1a3c5f37f67381bae15339dc504bd36c1b04d61b24e7f21ad71aa3e30ab936a0"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "cc3443dda3bcac2993c2abaeb9c14763fe4fbbf1"
+git-tree-sha1 = "e46ff66cee37aa971a8e0b8b568ce2a4c103a09c"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -539,11 +539,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "87aaedad535f5fe355978c9667125e02925d23707935f12b83cb2ae52791cf3f"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "15bc1cc9fb51d400948af8bff92badf348b127a408bd104e1f0423f8b92a1d28"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "16d5d6980fd1f5a22e5dd8c74f01c51663e217fc"
+git-tree-sha1 = "56e3ad7005c01cbb3ef383a261fbf002aec3ac67"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -551,44 +551,44 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "ba4f9f6deee09341dcce4d7659c45eb49ff74ff28488b863f1dfe04302d0b2b7"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "976bae5a18bc3ecf803397825f193577efee11fec7071394b4838c90411845c8"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "5d746aa6987e9d9096c403e0c4ee4ba8a293227e"
+git-tree-sha1 = "c4c09dd8add816fd0b7cc50810cadb50ecd5f3d6"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "44ac4eff48430f3ff58d4b55f5d99a14eb473b89aaa11a36a6e9662a42a99c7f"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
+    sha256 = "4854703d69ecd2179273a9588148fd6d45c683884628ee87ddc65967f33afb5b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "a08b68823ff577471f2a3c6d643eaa61b9759278"
+git-tree-sha1 = "bd3ba27b5a205bd1c6bea3c901a969f3d59f965f"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "ba3b7752e7a12d74c6e0eca060cbe054070b70cc582fe6c87b4bfa5b5b0e1eae"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+    sha256 = "b25142185d3758b4f7877568d82bac50d0336b018026913422bc05ffe8007a7f"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
 [[MUMPS]]
 arch = "i686"
-git-tree-sha1 = "d20e95d820b950ec26a50fd230f26a1714a025b7"
+git-tree-sha1 = "2aa4d19c7b95ac4da70072f5121835610800ec44"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "d741d17c157b925f956d4d3a6341e9433ce956ccfb690e17aedbbb009dc61bdc"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.i686-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
+    sha256 = "9ced9441944e988a353ab9a2e8196338a0207e5ca122c50ae4f6d958eec6c341"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.i686-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "a77c82562f1b0ae7275283e4761af9d0e5d77739"
+git-tree-sha1 = "720c845593f087dfab5c7a2ee5047e65e71f5818"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -596,11 +596,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "e348828576a28800d1fbcd79a58e29aeab721389d3e8722f84d25a00b65f4d37"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "1de91f858b710a5a4ec9e9ec9edfd6f07291577f5ffc38010a5188e213e607f2"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "38b4ad5a9d886fb99bbf8584db65b3705f8f3666"
+git-tree-sha1 = "57143d20a19802454311ab7c2bd3857c0ec60380"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -608,11 +608,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "38becaf8d02f2588c465af1726fd0d0d6346b1afa4a03a2b5cb8b7c7a27f931e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "0646eedd85a382426bdc14bd0ec7aad501f9748d9a7ad68b79361b2a6d7ba0f6"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "6b675f8e1929f2805094319cf1926aaee97b73d4"
+git-tree-sha1 = "f8df3e60a61bcb360865a1ea378340b817ad61b3"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -620,11 +620,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "2fba7099bf88c9af942474fb8bc7f66dacfec59dd2b53822b29c3abe2276399e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "903dc3fbc2a67bab020871e58fb427d129f329ea32e7d0be8089994b12c8d759"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "a60b8e151ce8778c6b275ca5ac51e3bdc7264753"
+git-tree-sha1 = "b49c43e99f58ed7dfd807c5537e8e6bcb5fefd38"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -632,11 +632,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "d7a5cfe38c3d1e2d6e319311d4680187fcebd92c0de2b468dbd4cb991adeac36"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "01ad7b605db5e38cd977183eaf83a67fb856d325d594a9f7bcfc2a66389630dd"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "f6f4f8943a4055bb4796da3e7c03df626e87258d"
+git-tree-sha1 = "77de987d6703a252714d2dd84b68b7b18e19257c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -644,11 +644,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "13d777e87d655503d82a909affc370384026cfe335ec716e0765a9b364cadaa9"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "d8821c5f57875337f7953f67be243aae01f81bcb1148f6e46f6a8e4eaafe78c2"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "51798e05c10915f68528e12b2d9e5748f1ceb3e1"
+git-tree-sha1 = "85367f8085665f26d2570617e7062203a53a585c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -656,11 +656,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "0c9101b0228d1cb5f0fbdfad326fc2083b730f4ffa4829279d2e3b7a69534a4b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "518c044c4ec1f27171af689171be48199acb83daea07a1365cfb0a7d107ae255"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "fd0fe6f43b2172e22043848a586d9d7816eff83d"
+git-tree-sha1 = "b070e590615b02068f5f515c7f34afb2d9a6ccff"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -668,11 +668,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "86e58a43265d1e3541db07c65a394d9abd8d4700a542b724c0817999430cc234"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "a0c1dd455a89e784dc0b041f0445206965bdb5132f3061e19aa4ce8127247718"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "062b0a8bfa52a91d87a576231708538af1baa818"
+git-tree-sha1 = "dcc2f09878873953f95d73b2d199e7b446ee655d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -680,11 +680,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "f8902f16e0a4ea4759a8eab631c6ff0a1fc2b50687880752ef93e82522625abe"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "064c6d78710d67e739a28ac8c69d88512257c2aa3423c809b6f492c7d633d90b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "powerpc64le"
-git-tree-sha1 = "465c15b9acf992586dee0a08f38a357e936b8662"
+git-tree-sha1 = "8b4b5fba042c18e3f78f2552cf02097f1df965f5"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -692,110 +692,110 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "e4fd1d796e30d541c08fa4742762397a2f4076321000e8f87595d8cfbde149f4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "3f4d763ce267f4a6c1bfb70cd5a5ef975e2cdad5d44ada6cf913b2a100a398bd"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "f0f520b364c924546a755e8db779c1717bbd0d76"
+git-tree-sha1 = "317aa034ab7a8eb6b67c94f6ea3b0e3574afffde"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "c2b31c616ff0b8729d7bff4824b76a3106981e04f26b5f0912efd31f4a731af0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "16162339c9a66be6be7330789cd76dd16199765b505531c57b9a93453a010002"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "d596ebb66878f3ddb30d54831dc6cf0859a1dd5f"
+git-tree-sha1 = "1c2db06fbe041b508a0ff815d37b03db47e4af3e"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "c3355c963123c655ecc2dbdb76a22e9c9fd1e5ba215326998fb16dd89fa6653b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "fc848b679f67c95668ccb942f498ae3bf610faad9669aae4e5bf47bad62369a5"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "5a9296e72b92d0169ecb5b11634e68d41bca87e6"
+git-tree-sha1 = "22444c56c3761d1ab3028c2f146e3e9492eb412f"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "9d24b5354bbaff70d0fd1cfe78f427e6c595c4575e3f24cdbe6007932b5207ca"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "fae3e08a73c7b10f04e19d77c2e08a3897231815e35c5a940293241c8d41f779"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "461b2548bd57cae000f6e0a468076e086126ea82"
+git-tree-sha1 = "5cfafd426dc2e78bf4e4987f9c91bf55099ba2fb"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "ee45ed1ebfed2738f7a90eeeb66af9ed16ee4c904873a4c33ddc2f62d6f1b31e"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "033f87eadfad8ddac4ff75c86f11d8ba7409c0261d40d6f55b552c7a6eb43920"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "8d923b4c453b2c018094fb286cc956ec8c8297ac"
+git-tree-sha1 = "bc4f7eb8f15c792fc1c6af7b3ae0168017538f32"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "9752c5662b13f45b4714d938d5344aebc8781b3c508a21fb3a42b7415532a506"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "4afe6bfa5c534fd25f5db4a5955991e2c2d4ee72c09a1bd9fd758756fa9fb417"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "71a57b0a02b2f2a40b631dec292bd6a4b8ed337a"
+git-tree-sha1 = "f167419137831894abd432d1477d98817f97ecdc"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "10b698f29f1e77c1d2fa539dc4751420f8254f8117a8b808d180396b6d93ebde"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "7550d80f2dd38d426a6f616283f1ce498cf64b64b5b7c63ac2c6d7c53bcabbb0"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "422e1d89efac17680ea8061d67addf8100416997"
+git-tree-sha1 = "b9cd98702104db1408772a74c514fc9466ab86e4"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "b5afdd74aaf43bb1ffff43e00c668c6027f5e81e5d2ab11072ca878d0941251f"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "7d4b695dd81308c3c5a186ec5cfbc3ca7cc238fb35e1680285cb918115110902"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "4fb8322127ba614dc076fad5fb5c4e8ee99f1101"
+git-tree-sha1 = "63d669f8f48e1460ed315bb06277be099f0ef0cf"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "1ce39c1a78830744acd0d70b7a31bb5c0efa987c189e962a2570cac62a0bd8b8"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "0e96d444fe5a2edeadba917c86c2bcf25a41da6f8d449cd4ab10de4042df2d9e"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "afdd3e40bb48968adf027758fa793cebbc460a64"
+git-tree-sha1 = "92023e7c0f0479705bea1032c24fda6e34d6cd0a"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "openmpi"
 os = "macos"
 
     [[MUMPS.download]]
-    sha256 = "3abb32138e72b5040bb4cbb9cff119bd35ad5aa5da189e69185c597dc5f66733"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "cbc3d661051ea111072afccb47c040aaf8bed8b0dd5af354f202a97cb4c142ab"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "d9acb49fa2a229cfa117b1414fc2dd432e9caade"
+git-tree-sha1 = "beb84dd5c19716c976291654510cae5677b8fba7"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -803,11 +803,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "02e9eb5bf37d812030387f875178d0eb98d5cd958c3806eca8568d557a10210b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "49b10a94725290e4faf78cdcd152403ef7436c5cffed93a25a2d1d1e7cff5f85"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "35df3725129ad45ce19d81f98a88f7f9db19189d"
+git-tree-sha1 = "5ebf967752dcfdfd9aeedeef7d85a251e7a87651"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -815,11 +815,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "880184334ddb661a1185d3fca46f018aaa72c5b7708cdf15dd55ceed9ef692d0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    sha256 = "ee824d6474b9d0c7a70aa62a28c1aeea296ba60fc58b66072b03db1290d398cb"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "6b4d0446f29e21ef86fddc1a746e75fe04f75401"
+git-tree-sha1 = "735296ff8837a084027d39e22ee6305e6098ed66"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -827,11 +827,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "6d681573319e04aa12f804fc9af44d2eecd60696782ee45768c4f5ed8bf0ec8b"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "c77d7b088bc242e0aa3c49cd85368e4879615110654a8570ea0873797a0bc29b"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "fd6f3cfdb5734d36170104d0daa7539367028fde"
+git-tree-sha1 = "3ce1d0d46d50ba9457e6a7d072ed20453a8cf808"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -839,11 +839,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "44b18450100e5877416d3426df563293a2caf640d6b50557fb39741bd1af62b5"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "1b4dbf19a8c07448e82570dabb63693eef24059af3291291443f13af6267dec1"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "3a078bde6f81addb283d7f00e548e9db5f326c90"
+git-tree-sha1 = "c9c811086c9d34fe38dce0a821ed8b8cee7ba4c0"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -851,11 +851,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "7612c566e8c9d6f693b0957a5258119dc206224a2a92f94d1e1afddd02a5b945"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    sha256 = "4f730561b9a7cf2c45ba8babb22e5ff9bfe87c87c3d43d190ee613060ecb8656"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "67732d556be183a7775ad37c6dfb7887d0dc107b"
+git-tree-sha1 = "8f658102b63539652b3b9d4b3f12814720a4d6db"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -863,11 +863,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "b411e7310e16ab5b5df2f1ecc53f1ab886f8476b84d6e8725d938b27bb831ce6"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "739987eac94e55f56949d0d01c0def8eca1d135eac2b81441f895e5a16397efd"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "d2146cd9a2156c30259e6246e9778b18b916d453"
+git-tree-sha1 = "eae1d2974cfca3233c122053862866caf9cef9e8"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -875,11 +875,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "00c5211a4712329178d1261f534f605f007e42ad382bc5357ebf133f061ecc72"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "bd1766fc5773344ad524edd4166226ae0dace6aa99807b4c229d848c4c3a9eb4"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "aa3fcad42ffdf2de02519badec4c993aa5fad4e4"
+git-tree-sha1 = "8749bd1d0dbdbfe2c9638a6dbd9ef68695c4e0aa"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -887,11 +887,11 @@ mpi = "mpitrampoline"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "39f38bf2a7c1e30c9ef7c457669b9b26d83cca53d59422af61373c192494acda"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    sha256 = "683d95eae1f9e6f58c609eced97130905cbf9ec56049c3d7f4fcba66ba2fd4b2"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "b05bc48e0e3ce052391bb3e260ab93cdf9da4426"
+git-tree-sha1 = "17ddc27b037937e774412c17d92c545960c5b821"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -899,11 +899,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "354b1851c8a8d44947235b52cbbe8d27d5f959727a73e08fc83e1130e591f427"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    sha256 = "d12da44f259961dce83640f5052adf5deadc69d7f559f80b1364ec016e3c67cf"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "144fcfad5e368511a39abb765f75061ddf5feffa"
+git-tree-sha1 = "7383fd2442548fceebf09923ca8cdacc59276ccb"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -911,11 +911,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "572b3d9f430cb949e66eecd0949037d8a69ce76689ad3cd6633b8b3fee68c6e0"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "94b0a081b52924369c305e3d0db8380d472c7adb0a390a00a7642cce8a014b2e"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "290752fa995d6a8aae4db4fc9263425aa07e3a3c"
+git-tree-sha1 = "808a640171c4944ec2c188e1c65f159edc43d861"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -923,11 +923,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "040e7aaab2dd94345ab164993cd66883033da11628ba5b5401eabe88b51d1d8f"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
+    sha256 = "7ecef938ce1bdbb1632671b886a5ba8763495394b3fabd8397026eb831ae050c"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "bc9c656df8863bfdffbdd04a377614bf790f13d2"
+git-tree-sha1 = "a4689ed6af34b1d899cc74dfd75a972316263fc5"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -935,11 +935,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "26a5d1e56bd11c069c1eb71fc9521ffd9549e5747ea9ceab8ce9eeaf57f10b14"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "ac16f59b6c4c1534c327722a6ac1d2175b18fd539fbe31fed221e630ec21509d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "c01cb7d6caaed1d53c023d41dff5cf711a1489a9"
+git-tree-sha1 = "877cec9065cd39fb8fdcaa4bf38e8cc641ad2b39"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -947,11 +947,11 @@ mpi = "openmpi"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "ec57a397be5e6b1249dac41b02daaf00e63dd3f730b2d45eb82c4a2a70a6e6a5"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
+    sha256 = "2a63771edcc37279ec37160ec137c6048ba4032b2fca6fdaf4c23e2baf9d1b13"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "98d60652d1a2fce143341441336ae99647887542"
+git-tree-sha1 = "3acb14d55225cf57d87d5beaf0adc81ff4391614"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -959,71 +959,71 @@ mpi = "mpich"
 os = "linux"
 
     [[MUMPS.download]]
-    sha256 = "1d3b895eed4baed1ed63292dea645ac1af077da37650ea2f700921423865f1b5"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "e31360f725bf15e1f30be456b037673d60a456e743e8da4148704f9fd5d5f071"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "8f3874a3145786cdf1c91f9a0d613194e0dbdc51"
+git-tree-sha1 = "633d22ab4808796a6806b41130b0965691d2d160"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MUMPS.download]]
-    sha256 = "01c8eb1547bbe919cd00fdc76cc7b2dd0b398a60679b528bf90cda2835a55634"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "25d54872cbc7e982e0e136076cdf1381c05abb4eeae2109ab76d96b4ef1d779d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "a481a81c42750c0ae8c1cf78e3335b44d97510da"
+git-tree-sha1 = "6e71f04a142a0e1c022ace99a53cb14835d972bb"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MUMPS.download]]
-    sha256 = "72714ccc00cf1eed08f7427b7042f8d211dfc91ac3b14fdf5ce557621c8906a4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "f1cb798519eb29dc2c544fd1f261c24f34688ec63d186be40ccd96d6eb7ffb8d"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "b58b093a7e3953646317d57c0aa0c1080c4bbd18"
+git-tree-sha1 = "b42b6a731212185520712b5d43721c3ef77bd368"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MUMPS.download]]
-    sha256 = "34ce70b1410e00efe7b4468a23afca187b712b1b0042003943de6314f3d16f46"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "97e85d3d02316b883db62bbd8a0465ad1fcd7108defc7623ca2376aa4f8b47ae"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "74d81e8472a272a7f4e0d5353859d71be961acab"
+git-tree-sha1 = "f80ae410f65f3e8c13d068ae02c0dbca54b8f0c5"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "045e4192aac3b39b882c8602332ad4d9cdee70631473c859fff41e315ca7b4c4"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
+    sha256 = "975cf585f3597188f0cdec54f0b9280cd4eb5c4421b2947f372d7f3a43eb97e5"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "6bfa109cf4bde6aa96330b4bf3c88a11f3abd6d3"
+git-tree-sha1 = "b6c7fc10c43655c3467f9c9e33b7ea7d621317da"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "6eed3dab53a5634fba94b90e27c5fd5fa557585197f84f98985086e43df3d128"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+    sha256 = "895a15ace862ee68f38cf597868e3f206ff9b4d662829c7cd29b5b8fd640dd41"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
 [[MUMPS]]
 arch = "x86_64"
-git-tree-sha1 = "9c5dc2e0adc5a187f86d9ffd704e4f7dd12f7f0d"
+git-tree-sha1 = "602f3ee79c972c8101591d833529cf98052d3023"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[MUMPS.download]]
-    sha256 = "09d4fb34f733558be66d1ee1f8543598ba5ed32288fd9bb176bff373b4038f96"
-    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.6.2+0/MUMPS.v5.6.2.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
+    sha256 = "8d8d6af1f49f6bed95a4f9da5ffaddb4197b104c6da6024555437fbc3e22feb9"
+    url = "https://github.com/JuliaBinaryWrappers/MUMPS_jll.jl/releases/download/MUMPS-v5.7.0+0/MUMPS.v5.7.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
