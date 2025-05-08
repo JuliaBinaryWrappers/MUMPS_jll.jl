@@ -5,7 +5,6 @@ using CompilerSupportLibraries_jll
 using METIS_jll
 using PARMETIS_jll
 using SCOTCH_jll
-using PTSCOTCH_jll
 using SCALAPACK32_jll
 using OpenBLAS32_jll
 using OpenMPI_jll
@@ -15,7 +14,7 @@ JLLWrappers.@declare_library_product(libdmumpspar, "libdmumpspar.so")
 JLLWrappers.@declare_library_product(libsmumpspar, "libsmumpspar.so")
 JLLWrappers.@declare_library_product(libzmumpspar, "libzmumpspar.so")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, PARMETIS_jll, SCOTCH_jll, PTSCOTCH_jll, SCALAPACK32_jll, OpenBLAS32_jll, OpenMPI_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, PARMETIS_jll, SCOTCH_jll, SCALAPACK32_jll, OpenBLAS32_jll, OpenMPI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libcmumpspar,
         "lib/libcmumpspar.so",
