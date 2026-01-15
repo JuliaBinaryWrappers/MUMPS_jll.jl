@@ -6,7 +6,7 @@ using METIS_jll
 using PARMETIS_jll
 using SCOTCH_jll
 using SCALAPACK32_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 using OpenMPI_jll
 JLLWrappers.@generate_wrapper_header("MUMPS")
 JLLWrappers.@declare_library_product(libcmumpspar, "@rpath/libcmumpspar.dylib")
@@ -14,7 +14,7 @@ JLLWrappers.@declare_library_product(libdmumpspar, "@rpath/libdmumpspar.dylib")
 JLLWrappers.@declare_library_product(libsmumpspar, "@rpath/libsmumpspar.dylib")
 JLLWrappers.@declare_library_product(libzmumpspar, "@rpath/libzmumpspar.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, PARMETIS_jll, SCOTCH_jll, SCALAPACK32_jll, OpenBLAS32_jll, OpenMPI_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, PARMETIS_jll, SCOTCH_jll, SCALAPACK32_jll, libblastrampoline_jll, OpenMPI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libcmumpspar,
         "lib/libcmumpspar.dylib",
