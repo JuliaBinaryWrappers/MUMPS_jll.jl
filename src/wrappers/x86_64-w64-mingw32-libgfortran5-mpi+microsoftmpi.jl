@@ -18,25 +18,25 @@ function __init__()
     JLLWrappers.@init_library_product(
         libcmumpspar,
         "bin\\libcmumpspar.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        RTLD_LAZY,
     )
 
     JLLWrappers.@init_library_product(
         libdmumpspar,
         "bin\\libdmumpspar.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        RTLD_LAZY,
     )
 
     JLLWrappers.@init_library_product(
         libsmumpspar,
         "bin\\libsmumpspar.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        RTLD_LAZY,
     )
 
     JLLWrappers.@init_library_product(
         libzmumpspar,
         "bin\\libzmumpspar.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+        RTLD_LAZY,
     )
 
     JLLWrappers.@generate_init_footer()
