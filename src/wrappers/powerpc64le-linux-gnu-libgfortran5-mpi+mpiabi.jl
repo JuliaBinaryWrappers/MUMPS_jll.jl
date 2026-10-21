@@ -10,34 +10,34 @@ using libblastrampoline_jll
 using mpif_jll
 using MPIABI_jll
 JLLWrappers.@generate_wrapper_header("MUMPS")
-JLLWrappers.@declare_library_product(libcmumpspar, "libcmumpspar.so")
-JLLWrappers.@declare_library_product(libdmumpspar, "libdmumpspar.so")
 JLLWrappers.@declare_library_product(libsmumpspar, "libsmumpspar.so")
+JLLWrappers.@declare_library_product(libdmumpspar, "libdmumpspar.so")
+JLLWrappers.@declare_library_product(libcmumpspar, "libcmumpspar.so")
 JLLWrappers.@declare_library_product(libzmumpspar, "libzmumpspar.so")
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, METIS_jll, PARMETIS_jll, SCOTCH_jll, SCALAPACK32_jll, libblastrampoline_jll, mpif_jll, MPIABI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
-        libcmumpspar,
-        "lib/libcmumpspar.so",
-        RTLD_LAZY,
+        libsmumpspar,
+        "lib/libsmumpspar.so",
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libdmumpspar,
         "lib/libdmumpspar.so",
-        RTLD_LAZY,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
-        libsmumpspar,
-        "lib/libsmumpspar.so",
-        RTLD_LAZY,
+        libcmumpspar,
+        "lib/libcmumpspar.so",
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libzmumpspar,
         "lib/libzmumpspar.so",
-        RTLD_LAZY,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@generate_init_footer()
